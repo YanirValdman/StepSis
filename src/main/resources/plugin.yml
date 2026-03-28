@@ -1,0 +1,4 @@
+name: StepSis
+version: '1.0-SNAPSHOT'
+main: Sisters.stepSis.stepSis
+api-version: '1.21'
